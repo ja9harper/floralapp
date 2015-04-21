@@ -1,0 +1,21 @@
+{
+  "name": "floralapp",
+  "version": "1.0.0",
+  "description": "harper floral demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ja9harper"
+  },
+  "keywords": [
+    "flowers"
+  ],
+  "author": "Janine Harper",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
